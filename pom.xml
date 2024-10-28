@@ -10,6 +10,7 @@
   <modules>
     <module>java-junit4</module>
     <module>java-junit5</module>
+      <module>java-mockito</module>
   </modules>
 
 </project>
